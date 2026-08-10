@@ -1,29 +1,50 @@
-4th year BCs software development student
+# Tiffany Yong
 
-## Featured Projects
+Software Development graduate based in Ireland, interested in software engineering and building practical software solutions.
+
+## About
+
+* Software Development graduate with a strong foundation in software engineering
+* Experience with software development, machine learning, distributed systems and cryptography
+* Interested in backend development, emerging technologies and problem solving
+* Currently open to Graduate Software Engineer and Junior Software Engineer opportunities in Ireland
+
+## Technical Skills
+
+**Languages:** Python, Java, C#, JavaScript, TypeScript, SQL, Rust
+
+**Technologies:** .NET, Angular, Ionic, TensorFlow, Keras, Firebase, Docker, gRPC
+
+**Areas:** Software Engineering, Machine Learning, Distributed Systems, Cryptography, Data Structures & Algorithms
+
+## Selected Projects
 
 ### Homomorphic Encryption Benchmark Framework
-[grpc-he-benchmark](https://github.com/TiffanyYongNgikChee/grpc-he-benchmark) - A benchmark framework for evaluating the performance of homomorphic encryption libraries in distributed systems. Built with Rust, Docker, and gRPC to measure encryption performance and network overhead in privacy-preserving computation scenarios.
 
-### Text Simplification System
-[TextSimplifier](https://github.com/TiffanyYongNgikChee/TextSimplifier) - Command-line Java application that simplifies complex English sentences using word embeddings and cosine similarity. Implements semantic analysis to replace difficult words with simpler alternatives from Google's top 1000 common words list while preserving meaning. Utilizes Java virtual threads for efficient execution.
+A distributed benchmarking framework for evaluating the performance of homomorphic encryption libraries.
+
+**Technologies:** Rust, gRPC, Docker
 
 ### Mobile Car Rental Application
-[share-my-car](https://github.com/TiffanyYongNgikChee/share-my-car) - Mobile app built with Ionic and Angular featuring real-time location tracking with Google Maps, Firebase authentication, and real-time chat. Supports car listings, bookings, and user profile management with responsive UI design.
 
-### SHA-256 Cryptographic Implementation
-[computational_theory](https://github.com/TiffanyYongNgikChee/computational_theory) - Implementation and analysis of the SHA-256 secure hash algorithm. Demonstrates understanding of cryptographic hash functions and computational theory principles.
+A mobile application developed for car rental, including booking, authentication, location tracking and communication features.
 
-### Graph Theory Algorithms
-[GraphTheory2025](https://github.com/TiffanyYongNgikChee/GraphTheory2025) - Implementation of graph theory algorithms including graph isomorphism detection and bipartite graph detection. Demonstrates algorithmic problem-solving and mathematical computing.
+**Technologies:** Ionic, Angular, TypeScript, Firebase
 
-### Full-Stack Data Representation Project
-[full-stack-project](https://github.com/TiffanyYongNgikChee/full-stack-project) - Full-stack application demonstrating data representation and querying with modern JavaScript frameworks.
+### Text Simplification System
 
-### AI & Machine Learning
-[ai-neural-network](https://github.com/TiffanyYongNgikChee/ai-neural-network) - Implementation of perceptrons and exploration of linear separability in neural networks.
+A Java-based application for simplifying complex English text using word embeddings and cosine similarity.
 
-[machine-learning](https://github.com/TiffanyYongNgikChee/machine-learning) - Machine learning lab work and experiments.
+**Technologies:** Java, Natural Language Processing
 
-### Quantum Computing
-[emerging-technologies](https://github.com/TiffanyYongNgikChee/emerging-technologies) - Classical and quantum implementations of the Deutsch-Jozsa algorithm, exploring quantum computing fundamentals.
+### Cryptographic Hash Function Implementation
+
+An implementation and analysis of the SHA-256 cryptographic hash algorithm.
+
+**Technologies:** Python
+
+## Currently Looking For
+
+Graduate Software Engineer, Junior Software Engineer and Graduate Technology opportunities in Ireland.
+
+[LinkedIn](linkedin.com/in/tiffanyyong-ngikchee/ )
