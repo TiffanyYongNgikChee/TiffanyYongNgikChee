@@ -46,5 +46,3 @@ An implementation and analysis of the SHA-256 cryptographic hash algorithm.
 ## Currently Looking For
 
 Graduate Software Engineer, Junior Software Engineer and Graduate Technology opportunities in Ireland.
-
-[LinkedIn](linkedin.com/in/tiffanyyong-ngikchee/ )
